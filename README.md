@@ -2,6 +2,8 @@
 
 **Source repo:** https://github.com/THUDM/GraphCAD/
 
+please run pip install -r requirements.txt to install the required packages, we used more packages than the original repo.
+
 ## Running Steps
 
 ``` 
