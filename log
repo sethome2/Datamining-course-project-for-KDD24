@@ -1,0 +1,8 @@
+[2024-12-17 00:03:43] {train.py:90} INFO - Namespace(train_dir='./dataset/train.pkl', eval_dir=None, test_dir='./dataset/valid.pkl', saved_dir='saved_model', log_name='log', epochs=50, seed=1, lr=0.0005, min_lr=0.0002, input_dim=768, out_dim=768, verbose=1, outer_layer=2, inner_layer=1, is_global=True, is_edge=True, pooling='memory', is_lp=True, lp_weight=0.1, usecoo=False, usecov=False, threshold=0)
+[2024-12-17 00:03:43] {models.py:91} INFO - EdgeUpdate
+[2024-12-17 00:03:43] {models.py:96} INFO - NodeUpdate
+[2024-12-17 00:03:43] {models.py:103} INFO - SystemUpdate
+[2024-12-17 00:03:43] {models.py:117} INFO - is_edge: True, is_global: True pooling: 'memory'
+[2024-12-17 00:03:43] {models.py:25} INFO - is_lp: True, lp_weight: 0.100000
+[2024-12-17 00:03:48] {train.py:108} INFO - # Batch: 545 - 545
+[2024-12-17 00:03:48] {train.py:113} INFO - max_step: 5450, 545,  50
